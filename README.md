@@ -1,2 +1,2 @@
 # Snake
-Snake Game.
+Snake Game.                                                                                                                                    Control using W A S D
